@@ -8,7 +8,7 @@
         "vmScaleSetSettings": {
           "tier": "Standard",
           "upgradePolicy": "Manual",
-          "instanceCount": 3,
+          "instanceCount": 1,
           "vmNamePrefix": "webVM",
           "virtualNetworkName": "azurex-vnet",
           "subnetName": "web",
